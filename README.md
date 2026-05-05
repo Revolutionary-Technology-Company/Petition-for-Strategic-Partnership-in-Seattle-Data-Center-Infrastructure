@@ -7,7 +7,7 @@ Addressed to Seattle Mayor Katie Wilson, this proposal outlines a self-sustainin
 
 ## Key Stakeholders
 * **City of Seattle:** Public resources and land use.
-* **State of Washington:** State resource administration
+* **State of Washington:** State resource administration.
 * **Revolutionary Technology:** Lead architects of the Quantum Circuit framework.
 * **NVIDIA:** Provider of the Quantum-X800 InfiniBand networking platform (800 Gb/s connectivity).
 * **Pacific Northwest National Laboratories (PNNL):** Federal funding source and primary initial tenant for AI research workloads.
