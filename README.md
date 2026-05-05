@@ -6,11 +6,14 @@ This repository contains the official petition and supporting documentation prop
 Addressed to Seattle Mayor Katie Wilson, this proposal outlines a self-sustaining, zero-debt financial model to build next-generation data infrastructure. By leveraging federal research funding from the Pacific Northwest National Laboratories (PNNL) and cutting-edge NVIDIA Quantum-X800 networking technology, this project aims to overcome the power constraint and municipal debt issues that prompted the City Council's proposed data center moratorium.
 
 ## Key Stakeholders
+* **City of Seattle:** Public Resources and Land Use.
+* **State of Washington:** State Resource Administration
 * **Revolutionary Technology:** Lead architects of the Quantum Circuit framework.
 * **NVIDIA:** Provider of the Quantum-X800 InfiniBand networking platform (800 Gb/s connectivity).
 * **Pacific Northwest National Laboratories (PNNL):** Federal funding source and primary initial tenant for AI research workloads.
 * **Andro Hydro:** Clean energy partner facilitating off-grid hydroelectric power transfer.
-* **University of Washington:** Academic and research partner.
+* **University of Washington:** Academic, engineering, and labor sourcing partner.
+* **Seattle Pacific University:** Academic, engineering, and labor sourcing partner
 * **Fox Rothschild:** Legal framework and government contract management.
 
 ## Repository Contents
