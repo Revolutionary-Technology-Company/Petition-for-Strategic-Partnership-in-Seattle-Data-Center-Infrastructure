@@ -34,7 +34,7 @@ The Seattle City Council's moratorium is an entirely realistic response to the t
 
 During the 365-day pause on private data center construction, the City of Seattle and state energy authorities must commit to a synchronized, emergency infrastructure build-out.
 
--   **Grid Modernization:** We must build all year. This includes upgrading substations, expanding high-voltage transmission lines, and integrating local hydroelectric power directly into commercial zoning sectors.
+-   **Grid Modernization:** We must build all year. This includes upgrading substations, replacing high-voltage transmission lines, and integrating local hydroelectric power directly into commercial zoning sectors.
 
 -   **Concurrent Engineering:** By utilizing the moratorium to build the physical grid, we ensure that on Day 366, Seattle is pre-equipped to handle the 369-megawatt load safely and sustainably. We can transition from rejecting technological expansion to hosting it securely without threatening the residential power supply.
 
